@@ -1,0 +1,8 @@
+{
+  "agent": "codex",
+  "max_workers": "auto",
+  "approval_policy": "ignore",
+  "update_tasks": true,
+  "logs_dir": "logs/harness",
+  "tasks_dir": "tasks"
+}
