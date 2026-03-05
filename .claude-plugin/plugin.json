@@ -1,0 +1,8 @@
+{
+  "name": "factory",
+  "description": "Agent harness that manages coding agents like an OS manages processes. Provides structured workflow: intake → planning → execution → verification → delivery.",
+  "version": "1.0.0",
+  "author": { "name": "shin" },
+  "homepage": "https://github.com/shin/factory-plugin",
+  "repository": "https://github.com/shin/factory-plugin"
+}
